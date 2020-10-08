@@ -139,24 +139,3 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-.idea/.gitignore
-.idea/Titanic2.iml
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-app.py
-requirements.txt
-static/
-templates/
-titanic/__init__.py
-titanic/actions/__init__.py
-titanic/actions/application_initialize.py
-titanic/actions/prediction_action.py
-titanic/actions/submit_actions.py
-titanic/datamanagement/__init__.py
-titanic/datamanagement/data_manager.py
-titanic/external_data/
-titanic/models/__init__.py
-titanic/models/model.py
-titanic/serialized/
